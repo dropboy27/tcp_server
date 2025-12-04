@@ -13,3 +13,4 @@ python src/server.py
 ```
 python src/test_client.py
 ```
+Результат будет в терминале
